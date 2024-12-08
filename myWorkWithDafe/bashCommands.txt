@@ -1,0 +1,46 @@
+List of Bash Commands
+
+To move into directory/folder      -        cd "folderName"
+To move back                       -        cd ..
+To create a folder                 -        mkdir "folderName"
+To view content in a folder/dir    -        ls
+To view content in another folder  -        ls "folderName"
+To know your present working dir   -        pwd
+To create a file                   -        touch "fileName"
+To rename a file                   -        mv "oldFile" "newFile"
+To delete a file                   -        rm "fileName"
+To delete a unique extension       -        *(extension) e.g (*.py)
+To move a file                     -        mv "fileName" "folderName"
+To delete a folder                 -        rm -r or rmdir ("folderName")
+To copy "fileName" to folderName"  -        cp "fileName" "folderName"
+For mac (forward slash /)          -        path
+To auto complete a long filename   -        cd first character + * (e.g cd m*)
+To write content in a file(1st line)  -     echo "message" > "fileName"
+To view content in a file          -        cat "fileName"
+To write content in a file(2nd line   -     echo "message" >> "fileName"
+To edit file content               -        vi "fileName"
+To insert text                     -        i
+To change back to view mode        -        esc
+To exit text edit mode             -        :wq or hold shift + zz
+To open my VScode from terminal (current directory)    -        code . 
+To align in a vertical order       -        ls - l 
+To view hidden document            -        ls - a 
+To view hidden doc in vertical order  -     ls -al or ls -la
+To view content in reverse         -        ls - lr
+To view two hidden files in ver order -     ls -ai
+To create and input content in a file -     > "fileName"
+To go back to home                 -        cd -- or cd ~
+To navigate into different paths   -        /
+To go back to window opened on VScode -     code -r .
+To open a file                     -        open "fileName"
+To view content in a file          -        less
+
+
+Permissions
+r - read
+w - write
+x - execute
+
+Root
+Group
+User

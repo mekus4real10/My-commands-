@@ -1,0 +1,3 @@
+Most used git commands
+New folder and files to work with
+To clone: git clone TOKEN@github.com/username/reponame.git
