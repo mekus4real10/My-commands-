@@ -1,3 +1,11 @@
 Most used git commands
 New folder and files to work with
 To clone: git clone TOKEN@github.com/username/reponame.git
+
+To update github repository
+add to stagging area: git add <filename or .> 
+Commit the repository: git commit -m "commit message" 
+Update online storage: git push
+
+To synchronize to local machine
+To synchronize: git pull 

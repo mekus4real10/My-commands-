@@ -44,3 +44,12 @@ x - execute
 Root
 Group
 User
+
+
+DataTypes
+Strings: What we know to be text and is always enlosed in quotes (" or ') eg "Sunday" 
+Integers/Numbers: They are whole numbers and don't use quotes. eg 14,6,8,10,25 etc
+Float Point Numbers (Floats): These are decimal numbers eg 0.986, 2.654 etc
+Boolean: Has two values and these are true and false
+Arrays: These are data points enclosed in square brackets. eg [12, "Bimbo", true, 3.142]
+Objects: These are instances of classes

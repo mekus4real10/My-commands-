@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "initiating ..."
+# for loop to auto create fifty files 
+mkdir -p ./multiple_files
+for number in {1..50}; do 
+    echo "creating file-${number}.txt"
+    echo "file to observe ${number}" > "./multiple_files/newfile-${number}.txt"
+done
+echo "done"
