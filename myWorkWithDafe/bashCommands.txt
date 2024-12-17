@@ -34,6 +34,15 @@ To navigate into different paths   -        /
 To go back to window opened on VScode -     code -r .
 To open a file                     -        open "fileName"
 To view content in a file          -        less
+To execute                         - ./
+To move to home directory          -   cd ~
+To move back to where you came from   -  cd -
+To comment for all languages          -  ctrl + /
+
+
+
+Types of editors:
+emacs, vim, vi and nano
 
 
 Permissions
